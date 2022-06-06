@@ -6,6 +6,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("First Git Hub Project Migration");
+		
+		System.out.println("First Changes has been done");
 	}
 
 }
